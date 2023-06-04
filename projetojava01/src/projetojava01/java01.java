@@ -1,6 +1,6 @@
 package projetojava01;
 
-public class Pessoa {
+public class Pessoateste {
 
 	private String Nome;
 	
